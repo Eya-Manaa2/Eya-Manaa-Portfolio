@@ -5,13 +5,14 @@
 
 ## Research Profile
 
-Telecommunications Engineering student at Sup'Com with strong research orientation in Computer Vision, Deep Learning, and Artificial Intelligence. Practical experience in designing, experimenting, and evaluating computer vision models for image detection and classification, with particular interest in real-time systems and deployment on resource-constrained platforms. Complementary experience in Generative AI, NLP, LLMs, and Retrieval-Augmented Generation (RAG), as well as developing software systems integrating intelligent components.
+Telecommunications Engineering student at Sup'Com with strong research orientation in **Computer Vision, Deep Learning, and Agentic AI**. Practical experience in designing, experimenting, and evaluating computer vision models for image detection, classification, and segmentation, with particular interest in real-time systems and deployment on resource-constrained platforms. Complementary experience in Generative AI, NLP, LLMs, and Retrieval-Augmented Generation (RAG), as well as developing software systems integrating intelligent components.
 
 ## Research Interests
 
-- **Computer Vision**: Hand detection, gesture recognition, real-time inference, Edge AI
-- **Deep Learning**: YOLO architectures, model optimization, data augmentation strategies
-- **Generative AI**: LLMs, Retrieval-Augmented Generation (RAG), Agentic AI systems
+- **Computer Vision**: Hand detection, gesture recognition, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: YOLO architectures, model optimization, data augmentation strategies, neural network design
+- **Agentic AI**: LLMs, Retrieval-Augmented Generation (RAG), autonomous agent systems
+- **Generative AI**: NLP, embeddings, vector databases, prompt engineering
 - **Real-Time AI Systems**: Mobile deployment, TensorFlow Lite, performance optimization
 - **Human-AI Interaction**: Visual perception, intelligent systems, agent-based architectures
 
@@ -46,6 +47,25 @@ Design and experimentation of a Computer Vision system for recognizing 26 words 
 
 ---
 
+### Interactive Technical Document Analysis AI Agent
+**Personal Project** | 2026
+*Agentic AI, NLP & RAG*
+
+**Research Objectives**:
+Design of a Retrieval-Augmented Generation (RAG) pipeline for analysis and querying of technical educational documents.
+
+**Key Contributions**:
+- **RAG Pipeline Design**: Implemented complete pipeline including PDF extraction, segmentation, embedding generation, and vector search
+- **Vector Database**: Utilized HuggingFace embeddings and ChromaDB for relevant passage retrieval
+- **Local LLM Integration**: Integrated local Mistral LLM via Ollama for contextualized response generation from retrieved documents
+- **Interactive Interface**: Developed interactive interface using Streamlit for document analysis and querying
+
+**Technical Stack**: Python, LangChain, Ollama, ChromaDB, HuggingFace, Streamlit
+
+**Repository**: [Course-AI-Agent](https://github.com/Eya-Manaa2/Course-AI-Agent)
+
+---
+
 ### V2V Channel Experimental Modeling
 **Research Project – Sup'Com** | 2025 – 2026
 *Supervisor: Pr. Nèji Youssef*
@@ -60,25 +80,6 @@ Statistical study of multipath propagation in urban and highway V2V scenarios.
 - **Channel Simulation**: Simulated multipath channels and experimentally evaluated BPSK transmission over AWGN, Rayleigh, and Rice channels
 
 **Technical Stack**: Python, SciPy, NumPy, Statistical Analysis
-
----
-
-### Interactive Technical Document Analysis AI Agent
-**Personal Project** | 2026
-*Generative AI, NLP & RAG*
-
-**Research Objectives**:
-Design of a Retrieval-Augmented Generation (RAG) pipeline for analysis and querying of technical educational documents.
-
-**Key Contributions**:
-- **RAG Pipeline Design**: Implemented complete pipeline including PDF extraction, segmentation, embedding generation, and vector search
-- **Vector Database**: Utilized HuggingFace embeddings and ChromaDB for relevant passage retrieval
-- **Local LLM Integration**: Integrated local Mistral LLM via Ollama for contextualized response generation from retrieved documents
-- **Interactive Interface**: Developed interactive interface using Streamlit for document analysis and querying
-
-**Technical Stack**: Python, LangChain, Ollama, ChromaDB, HuggingFace, Streamlit
-
-**Repository**: [Course-AI-Agent](https://github.com/Eya-Manaa2/Course-AI-Agent)
 
 ---
 
@@ -113,13 +114,18 @@ Development of a React Native / Node.js application for emergency reporting and 
 
 ## Technical Skills
 
-### Artificial Intelligence / Machine Learning
-- **Machine Learning**: Model analysis and evaluation, detection and classification, data augmentation
-- **Computer Vision**: YOLOv8, image processing, hand detection, region of interest extraction, classification, real-time inference, Edge AI
-- **Generative AI**: LLMs, NLP, Retrieval-Augmented Generation (RAG), embeddings, HuggingFace, Mistral, Ollama, ChromaDB
+### Computer Vision & Deep Learning
+- **Computer Vision**: YOLOv8, image processing, hand detection, region of interest extraction, classification, image segmentation, real-time inference, Edge AI
+- **Deep Learning**: Neural network design, model optimization, data augmentation strategies, transfer learning, model evaluation
+- **Machine Learning**: Model analysis and evaluation, detection and classification, statistical modeling
+
+### Agentic AI & Generative AI
+- **Agentic AI**: LLMs, autonomous agent systems, prompt engineering, agent orchestration
+- **Generative AI**: NLP, Retrieval-Augmented Generation (RAG), embeddings, vector databases
+- **Frameworks**: HuggingFace, Ollama, ChromaDB, LangChain
 
 ### Programming Languages
-- Python, C/C++, Java, JavaScript, TypeScript
+- Python (primary), C/C++, Java, JavaScript, TypeScript
 
 ### Web & Mobile Development
 - React, Node.js, Express, Flutter, React Native, Streamlit
