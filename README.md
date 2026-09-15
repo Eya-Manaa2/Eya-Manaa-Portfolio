@@ -161,11 +161,13 @@ Development of a React Native / Node.js application for emergency reporting and 
 
 ## Contact Information
 
-- **Email**: eyamanaa3@gmail.com
+- **Email (Personal)**: eyamanaa3@gmail.com
+- **Email (Sup'Com)**: eya.manaa@supcom.tn
 - **Phone**: +216 54 292 443
 - **Location**: Tunisia
 - **GitHub**: [github.com/Eya-Manaa2](https://github.com/Eya-Manaa2)
 - **LinkedIn**: [linkedin.com/in/eya-manaa](https://linkedin.com/in/eya-manaa)
+- **Research Portfolio**: [Eya-Manaa-Portfolio](https://github.com/Eya-Manaa2/Eya-Manaa-Portfolio)
 
 ---
 
